@@ -1,0 +1,16 @@
+body {
+	background-color: #210F2A;
+	color:  #F99C4A;
+}
+
+.container {
+	background-color: #B64BB0;
+}
+
+img {
+	width: 250px;
+}
+
+.col-md-4 {
+	margin-top: 55px;
+}
